@@ -1,0 +1,2 @@
+# newsletter
+Automated Newsletter
